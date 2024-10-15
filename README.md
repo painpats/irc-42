@@ -1,6 +1,10 @@
-# IRC
+# ft_irc
 
-The project `IRC` involves creating an Internet Relay Chat client in C, allowing users to connect to an IRC server, join channels, and send/receive messages in real-time. It's **the third group project** of the common core, my mates were **mafissie** and **slepetit**.
+The project `IRC` involves creating an Internet Relay Chat client in C, allowing users to connect to an IRC server, join channels, and send/receive messages in real-time. It's **the third group project** of the common core.
+
+Mates: **mafissie** and **slepetit**
+
+Score: **115%**
 
 ## Features
 
